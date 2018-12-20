@@ -6,7 +6,10 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [sandbox](https://codesandbox.io/s/mzx06ow82y) Assignment 1
+* [sandbox](https://codesandbox.io/s/kwzknxvlk3) Assignment 2
+* [sandbox](https://codesandbox.io/s/6ym16lz3qk) Assignment 3
+* [repo](https://github.com/edpuzino/lab-28)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
