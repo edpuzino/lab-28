@@ -1,0 +1,27 @@
+{
+  "name": "lab-28",
+  "version": "1.0.0",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB\r =================================================",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test-watch": "jest --coverage --verbose --watchAll",
+    "test": "jest --coverage --verbose",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edpuzino/lab-28.git"
+  },
+  "author": "Ed Puzino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edpuzino/lab-28/issues"
+  },
+  "homepage": "https://github.com/edpuzino/lab-28#readme",
+  "dependencies": {
+    "eslint": "^5.10.0",
+    "jest": "^23.6.0"
+  }
+}
