@@ -1,22 +1,28 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+[![Build Status](https://travis-ci.com/edpuzino/lab-28.svg?branch=master)](https://travis-ci.com/edpuzino/lab-28)
 
-### Author: Student/Group Name
+## Lab 28
+
+### Author: Ed Puzino
 
 ### Links and Resources
-* [sandbox](https://codesandbox.io/s/mzx06ow82y) Assignment 1
-* [sandbox](https://codesandbox.io/s/kwzknxvlk3) Assignment 2
-* [sandbox](https://codesandbox.io/s/6ym16lz3qk) Assignment 3
+* [sandbox](https://codesandbox.io/s/mzx06ow82y) Assignment 1, Part 1
+* [sandbox](https://codesandbox.io/s/6194931m8w) Assignment 1, Part 2
+* [sandbox](https://codesandbox.io/s/kwzknxvlk3) Assignment 2, Part 1
+* [sandbox]() Assignment 2, Part 2
+* [sandbox](https://codesandbox.io/s/6ym16lz3qk) Assignment 3, Part 1
+* [sandbox]() Assignmnet 3, Part 2
 * [repo](https://github.com/edpuzino/lab-28)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [travis](https://travis-ci.com/edpuzino/lab-28)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+#### `Message.js`
+##### Exports 'Hello World'
+
+#### `Count.js`
+##### Accepts a name and updates count when submitted'
 
 ###### `foo(thing) -> string`
 Usage Notes or examples
@@ -42,4 +48,9 @@ Usage Notes or examples
 * What assertions need to be / should be made?
 
 #### UML
-Link to an image of the UML for your application and response to events
+![](./assets/lab_28_1_1.jpg) Assignment 1, Part 1
+![](./assets/lab_28_1_2.jpg) Assignment 1, Part 2
+![](./assets/lab_28_2_1.jpg) Assignment 2, Part 1
+![](./assets/lab_28_2_2.jpg) Assignment 2, Part 2
+![](./assets/lab_28_3_1.jpg) Assignment 3, Part 1
+![](./assets/lab_28_3_2.jpg) Assignment 3, Part 2
