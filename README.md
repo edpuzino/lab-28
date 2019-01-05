@@ -11,9 +11,9 @@
 * [sandbox](https://codesandbox.io/s/mzx06ow82y) Assignment 1, Part 1
 * [sandbox](https://codesandbox.io/s/6194931m8w) Assignment 1, Part 2
 * [sandbox](https://codesandbox.io/s/kwzknxvlk3) Assignment 2, Part 1
-* [sandbox]() Assignment 2, Part 2
+* [sandbox](https://codesandbox.io/s/1r6m20o38q) Assignment 2, Part 2
 * [sandbox](https://codesandbox.io/s/6ym16lz3qk) Assignment 3, Part 1
-* [sandbox]() Assignmnet 3, Part 2
+* [sandbox](https://codesandbox.io/s/0yx2y46v70) Assignmnet 3, Part 2
 * [repo](https://github.com/edpuzino/lab-28)
 * [travis](https://travis-ci.com/edpuzino/lab-28)
 
@@ -24,23 +24,13 @@
 #### `Count.js`
 ##### Accepts a name and updates count when submitted'
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+#### `Form.js`
+##### Accepts a name and updates it as entered and when submitted sends the state up to the main app to update the counter.
 
 ### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
 
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* `Code is running on code sand box` 
+* `Link is above`
 
 #### Tests
 * How do you run tests?
@@ -48,7 +38,7 @@ Usage Notes or examples
 * What assertions need to be / should be made?
 
 #### UML
-![](./assets/lab_28_1_1.jpg) Assignment 1, Part 1
+![](./assets/lab_28_1_1.jpg) Assignment 1, Part 1 
 ![](./assets/lab_28_1_2.jpg) Assignment 1, Part 2
 ![](./assets/lab_28_2_1.jpg) Assignment 2, Part 1
 ![](./assets/lab_28_2_2.jpg) Assignment 2, Part 2
